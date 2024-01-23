@@ -1,5 +1,6 @@
 # HashSet (Deployed to `gh-pages`)
 ## `.src/HashSet.js`
+## Deployment address: [`myinan.github.io/cs-hashset/`](https://myinan.github.io/cs-hashset/ "myinan.github.io/cs-hashset/")
 ### A hashSet implementation with JS which stores only keys and no values.
 
 `set` takes single argument, key, and adds the key to the HashSet.
