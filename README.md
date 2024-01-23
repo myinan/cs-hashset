@@ -1,4 +1,6 @@
-A hashSet implementation with JS which stores only keys and no values.
+# HashSet
+## `.src/HashSet.js`
+### A hashSet implementation with JS which stores only keys and no values.
 
 `set` takes single argument, key, and adds the key to the HashSet.
 

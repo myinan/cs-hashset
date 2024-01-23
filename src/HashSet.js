@@ -116,3 +116,22 @@ export default class HashSet {
     return keys;
   }
 }
+
+/* Driver Script */
+const newHashSet = new HashSet();
+newHashSet.set("firstKey");
+newHashSet.set("secondKey");
+newHashSet.set("thirdKey");
+newHashSet.set("fourthKey");
+newHashSet.set("fifthKey");
+console.log(newHashSet);
+
+console.log(newHashSet.has("firstKey"));
+console.log(newHashSet.has("sixthKey"));
+
+newHashSet.remove("thirdKey");
+console.log(newHashSet);
+
+console.log(newHashSet.length);
+
+console.log(newHashSet.keys);
