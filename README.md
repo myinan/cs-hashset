@@ -1,4 +1,4 @@
-# HashSet
+# HashSet (Deployed to `gh-pages`)
 ## `.src/HashSet.js`
 ### A hashSet implementation with JS which stores only keys and no values.
 
